@@ -46,3 +46,13 @@ Maintenance.
 “Target Availability” is defined in the SLA Key Terms Chart.
 
 **7. SLA Key Terms Chart.**
+
+-| Monthly Uptime Percentage: | Service Credit:
+--- | --- | ---
+**Target Availability:** | 99.9% or higher | None
+Credit Tier 1 | 99.00% - 99.89% | 5% of monthly fees
+Credit Tier 2 | 97.00% - 98.99% | 20% of monthly fees
+Credit Tier 3 | 95.00% - 96.99% | 35% of monthly fees
+Credit Tier 4 | <95.00% | 50% of monthly fees
+
+**Multiple Failures:** means Target Availability is not met for 2 consecutive months or any 3 months in a rolling 12-month period.
