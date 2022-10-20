@@ -11,7 +11,7 @@ This Bonterms Service Level Agreement (SLA) operates as an Attachment to the [Bo
 3. **Enter** into the SLA when you sign the Cloud Terms Cover Page.
 
 ## Open Source
-The Service Level Agreement and all other standard Bonterms forms are free to use under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).
+The Service Level Agreement and all other Bonterms Standard Agreements are free to use under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).
 
 ## Feedback or questions?
 Reach out to support@bonterms.com.
